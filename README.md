@@ -1,2 +1,2 @@
-# Client-Downloads
-Find the downloads to the Nytern Client in this repository
+# Client Downloads
+We house the Nytern Installers on this repository, Feel free to view the Releases tab to download Nytern
